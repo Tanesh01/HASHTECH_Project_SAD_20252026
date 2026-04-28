@@ -1,4 +1,4 @@
-# Technician Project 1 (SAD)
+# HashTECH Project (SAD)
 
 ## 👥 Team Members
 
