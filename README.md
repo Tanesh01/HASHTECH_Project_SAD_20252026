@@ -2,9 +2,9 @@
 
 ## 👥 Team Members
 
-| Role   | Name                                   |Matric No|
-| ------ | -------------------------------------- ||
-| Leader | TANESH A/L K RAJAKUMARAN |A25CS0359|
-| Member | NG YAW KUAN             ||
-| Member | HING QI WEI  | A25CS0066          |
-| Member | TERENCE LIM JIAN YUAN   ||
+| Role   | Name                                   |
+| ------ | -------------------------------------- |
+| Leader | TANESH A/L K RAJAKUMARAN |
+| Member | NG YAW KUAN             |
+| Member | HING QI WEI  | A25CS0066          
+| Member | TERENCE LIM JIAN YUAN   |
