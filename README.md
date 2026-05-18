@@ -7,4 +7,4 @@
 | Leader | TANESH A/L K RAJAKUMARAN |
 | Member | NG YAW KUAN                       |
 | Member | HING QI WEI                  |
-| Member | TERENCE LIM JIAN YUAN   |
+| Member | TERENCE LIM JIAN YUAN handsome  |
