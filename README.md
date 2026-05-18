@@ -1,5 +1,5 @@
-# HashTECH Project (SAD)
-
+# AUTISM EARLY SCREENING SUPPORT SYSTEM 
+## By HashTECH 
 ## 👥 Team Members
 
 | Role   | Name                                   | Matric Num |
