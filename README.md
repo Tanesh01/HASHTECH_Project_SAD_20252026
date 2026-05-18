@@ -1,5 +1,5 @@
 # AUTISM EARLY SCREENING SUPPORT SYSTEM 
-## By HashTECH 
+*By HashTECH*
 ### 👥 Team Members
 
 | Role   | Name                                   | Matric Num |
